@@ -7,3 +7,7 @@ var: Ya no se ocupa
 ejemplo let Edad = 0;
 
 ejemplo const edades = [15, 30, 5]
+
+Debo de buscar un proyecto con python
+
+Preferiblemente donde emplee los variables 
