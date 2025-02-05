@@ -1,0 +1,13 @@
+Algoritmo calculador
+	Definir Par Como Entero
+	Escribir "Inserta numero de operacion "
+	Leer Par
+	
+		
+	Si Par%2==0  Entonces
+		Escribir "Tu numero es par"
+		
+	SiNo
+		Escribir "Tu numero es impar"
+	Fin Si
+FinAlgoritmo

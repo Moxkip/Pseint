@@ -1,0 +1,20 @@
+Algoritmo sin_titulo
+	Definir edad, anio Como Entero
+	
+	Escribir "Ingresa la edad del estudiante:  "
+	Leer edad
+
+	Si edad>= 1950 Y edad <= 2025 Entonces
+		anio= 2025-edad
+		
+		
+		Escribir "Tu edad es:  ", anio
+	SiNo
+		
+		Escribir "No se puede perro"
+	Fin Si
+	
+
+FinAlgoritmo
+
+ numero%2==0

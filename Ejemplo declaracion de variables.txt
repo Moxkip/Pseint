@@ -1,0 +1,9 @@
+Para declarar variables 
+const: su valor no puede ser modificado jamas
+let:Su valor puede cambiar segun sea necesario
+var: Ya no se ocupa
+
+
+ejemplo let Edad = 0;
+
+ejemplo const edades = [15, 30, 5]

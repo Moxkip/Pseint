@@ -1,0 +1,39 @@
+Algoritmo Calculadora
+	Definir ops Como Entero
+	Definir numero_1,numero_2,total Como Real
+	Escribir "Inserta numero de operacion "
+	Leer opc
+	
+	Escribir "Insertar numero 1"
+	Leer numero_1
+	Escribir "Insertar numero 2"
+	Leer numero_2
+	Segun opc Hacer
+		1:
+			total = numero_1 + numero_2 
+			Escribir "La suma es: ",total
+		2:
+			total=numero_1-numero_2
+			Escribir "La resta es: ", total
+		3:
+			total=numero_1*numero_2
+			Escribir "La multiplicacion es: ", total
+		4:
+			total=numero_1/numero_2
+			Escribir "La division es ", total
+		5:
+			total=numero_1*numero_1
+			Escribir "Al cuadrado es ", total
+		6:
+			total=RC(numero_1)
+			Escribir "La raiz cuadrada es " total
+		De Otro Modo:
+			Escribir  "No se puede realizar esta accion"
+		
+	Fin Segun
+FinAlgoritmo
+
+
+
+Anotacion golll numero%2==0
+
